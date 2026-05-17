@@ -97,11 +97,11 @@ I'm a security-focused developer and QA engineer with hands-on experience across
 - [x] HTML, CSS & JavaScript Fundamentals
 - [x] React — Components, Props, State, Hooks
 - [x] Built and deployed Task Manager App on Vercel
- Docker — Containerize Task Manager App
- Node.js + Express — Build backend API
- MongoDB — Connect to real database
- Authentication — Login / Signup system
- AWS — Deploy full stack app on cloud
+- [ ] Docker — Containerize Task Manager App
+- [ ] Node.js + Express — Build backend API
+- [ ] MongoDB — Connect to real database
+- [ ] Authentication — Login / Signup system
+- [ ] AWS — Deploy full stack app on cloud
 
 🛡️ Machine Learning & Security
 - [x] Python Fundamentals
